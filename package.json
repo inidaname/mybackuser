@@ -1,0 +1,26 @@
+{
+  "name": "mybackuser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.mjs",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "mongodb": "^3.1.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/inidaname/mybackuser.git"
+  },
+  "author": "Hassan Sani",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/inidaname/mybackuser/issues"
+  },
+  "homepage": "https://github.com/inidaname/mybackuser#readme"
+}
